@@ -4,7 +4,7 @@ body{
   font-weight: 200;
 }
 
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -44,7 +44,7 @@ section{
 p{
     color: dimgray;
 }
-.mid-banner{
+.mid-dream{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
