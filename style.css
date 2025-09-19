@@ -22,6 +22,7 @@ body{
 }
 section{
     height: 500px;
+    padding-bottom: 100px;
 }
 .anchor-button{
     text-decoration: none;
@@ -30,4 +31,21 @@ section{
     border-radius: 5px;
     font-weight: bold;
     color: white;
+}
+.mid-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+}
+.mid-width img{
+    width: 80%;
+}
+p{
+    color: dimgray;
+}
+.mid-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
