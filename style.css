@@ -39,7 +39,7 @@ section{
     padding: 2%;
 }
 .mid-width img{
-    width: 80%;
+    width: 90%;
 }
 p{
     color: dimgray;
@@ -76,4 +76,8 @@ footer p{
     text-align: center;
     font-size: small;
     color: black;
+}
+.hov-er:hover{
+    color: rgb(10, 7, 177);
+    font-style: bold;
 }
