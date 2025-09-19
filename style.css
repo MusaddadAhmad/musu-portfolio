@@ -23,3 +23,11 @@ body{
 section{
     height: 500px;
 }
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 9px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
